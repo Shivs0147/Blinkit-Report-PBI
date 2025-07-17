@@ -100,7 +100,9 @@ Show what the dashboard looks like. - ![Sales Drillthrough](Snapshot_of_Sales_Dr
 
 Show what the dashboard looks like. - ![Outlet Drillthrough](Snapshot_of_Outlet_Drillthrough.png)
 
+## 📽️ Demo Video
 
+🔗 [Watch demo video](https://drive.google.com/file/d/1LoPa6kaJtsY55aWr_buM_7es3zS7IzL8/view)
 
 ## 📈 Key Business Insights
 
