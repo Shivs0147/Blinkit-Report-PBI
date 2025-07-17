@@ -102,7 +102,7 @@ Show what the dashboard looks like. - ![Outlet Drillthrough](Snapshot_of_Outlet_
 
 ## 📽️ Demo Video
 
-🔗 [Watch demo video](https://drive.google.com/file/d/1LoPa6kaJtsY55aWr_buM_7es3zS7IzL8/view)
+🔗 [Watch demo video](https://drive.google.com/file/d/1jV3IluddHjfd2e9ss06X8JfiYEe0L_JI/view)
 
 ## 📈 Key Business Insights
 
