@@ -129,10 +129,10 @@ Show what the dashboard looks like. - ![Outlet Drillthrough](Snapshot_of_Outlet_
 ## 📌 Report Navigation
 
 - `Home`  
-- `Sales Dashboard`  
-- `Outlet Dashboard`  
-- `Sales Details (Drillthrough)` 
-- `Outlet Details (Drillthrough)`
+- [`Sales Dashboard`](https://github.com/Shivs0147/Blinkit-Report-PBI/blob/main/Snapshot_of_Sales_Dashboard.png)
+- [`Outlet Dashboard`](https://github.com/Shivs0147/Blinkit-Report-PBI/blob/main/Snapshot_of_Outlet_Dashboard.png) 
+- [`Sales Drillthrough`](https://github.com/Shivs0147/Blinkit-Report-PBI/blob/main/Snapshot_of_Sales_Drillthrough.png)
+- [`Outlet Drillthrough`](https://github.com/Shivs0147/Blinkit-Report-PBI/blob/main/Snapshot_of_Outlet_Drillthrough.png)
 
 ## ✨ Author Notes
 
